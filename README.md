@@ -7,18 +7,18 @@
 
 <div></div>
   <a href="https://github.com/mtserik/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mtserik&show_icons=true&theme=dark&rank_icon=github" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=mtserik&show_icons=true&theme=dark&rank_icon=github" />
   </a>
   <a href="https://github.com/mtserik/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtserik&layout=compact&langs_count=6&card_width=320&theme=dark" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtserik&layout=compact&langs_count=6&card_width=320&theme=dark" />
   </a>
 </div>
 
 <div>
-  <a href="https://github.com/mtserik/python-pandas-tratando-analisando-dados">
+  <a height=90 href="https://github.com/mtserik/python-pandas-tratando-analisando-dados">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtserik&repo=python-pandas-tratando-analisando-dados&theme=dark&show_icons=true" />
   </a>
-  <a href="https://github.com/mtserik/data-science-analise-visualizacao-dados">
+  <a height=90 href="https://github.com/mtserik/data-science-analise-visualizacao-dados">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtserik&repo=data-science-analise-visualizacao-dados&theme=dark&show_icons=true" />
   </a>
 </div>
