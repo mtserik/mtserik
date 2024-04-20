@@ -7,10 +7,10 @@
 
 <div></div>
   <a href="https://github.com/mtserik/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=mtserik&show_icons=true&theme=dark&rank_icon=github" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=mtserik&show_icons=true&theme=dark&rank_icon=github" />
   </a>
   <a href="https://github.com/mtserik/convoychat">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtserik&layout=compact&langs_count=6&card_width=320&theme=dark" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtserik&layout=compact&langs_count=6&card_width=320&theme=dark" />
   </a>
 </div>
 
