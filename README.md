@@ -16,10 +16,10 @@
 
 <div>
   <a href="https://github.com/mtserik/python-pandas-tratando-analisando-dados">
-    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtserik&repo=python-pandas-tratando-analisando-dados&theme=dark&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtserik&repo=python-pandas-tratando-analisando-dados&theme=dark&show_icons=true" />
   </a>
   <a href="https://github.com/mtserik/data-science-analise-visualizacao-dados">
-    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtserik&repo=data-science-analise-visualizacao-dados&theme=dark&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtserik&repo=data-science-analise-visualizacao-dados&theme=dark&show_icons=true" />
   </a>
 </div>
 
