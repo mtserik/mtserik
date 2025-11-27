@@ -64,7 +64,7 @@
 
 ## 📫 Como me encontrar
 📄 **LinkedIn:** https://www.linkedin.com/in/mtserik  
-📧 **Email:** mtserik@gmail.com  
+📧 **Email:** erik.stos.mts@gmail.com  
 
 ---
 
