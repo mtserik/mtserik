@@ -1,33 +1,73 @@
-### Olá! Eu sou o Erik Martins
+<h1 align="left">👋 Olá! Eu sou o Erik Martins</h1>
 
-- 👨🏻‍💻 Hoje trabalho como analista de dados
-- 🌱 Sou estudante de Data Science na FIAP
+🎯 **Cientista de Dados em desenvolvimento** — com foco em *Machine Learning*, *Estatística Aplicada*, *Análise de Dados* e criação de soluções orientadas ao negócio.  
+📚 Graduado em Data Science, sempre buscando aprofundar fundamentos matemáticos, estatísticos e computacionais.  
+💼 Atuo profissionalmente com dados em áreas de negócio, construindo análises, automações e modelos para apoiar decisões estratégicas.  
 
-##
+---
 
-<div></div>
-  <a href="https://github.com/mtserik/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=mtserik&show_icons=true&theme=dark&rank_icon=github" />
-  </a>
-  <a href="https://github.com/mtserik/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtserik&layout=compact&langs_count=6&card_width=320&theme=dark" />
-  </a>
-</div>
+## 🧠 Sobre mim
+- Comecei na área resolvendo problemas reais com Python e SQL.  
+- Converto necessidades do negócio em análises, modelos e insights aplicáveis.  
+- Gosto de estruturar dados, investigar padrões, diagnosticar modelos e contar histórias com números.  
+- Estou expandindo meu portfólio com projetos de *ML supervisonado, não supervisionado, EDA profunda e automação*.
 
-##
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Erik-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Erik-sql-developer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
-  <img align="center" alt="Erik-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="Erik-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="Erik-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>
+## 🛠️ Tecnologias & Ferramentas
 
-##
+### 🔹 Linguagens e Análise
+<p>
+  <img src="https://img.shields.io/badge/Python-1F425F?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
-<div>
-    <a href="https://www.linkedin.com/in/mtserik/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="mailto:erik.stos.mts@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### 🔹 Machine Learning & Estatística
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-</div>
+### 🔹 Automação e Integração
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+</p>
+
+### 🔹 Visualização
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
+</p>
+
+---
+
+## 📌 Projetos em Destaque (em construção)
+
+> 📍 *Assim que seus primeiros projetos estiverem prontos, fixe-os aqui no perfil e coloque os links abaixo.*
+
+- 🔹 **Machine Learning – Classificação / Regressão** → _em desenvolvimento_
+- 🔹 **Clusterização de Clientes** → _em desenvolvimento_
+- 🔹 **EDA Profunda de Dataset Real** → _em desenvolvimento_
+- 🔹 **Automação com Selenium + Análise** → _em desenvolvimento_
+
+---
+
+## 📈 O que estou estudando agora
+- Aprimorando ML clássico (tuning, regularização, validação cruzada)  
+- Construção de pipelines e boas práticas de modelagem  
+- Estatística aplicada e inferência  
+- Projetos autorais para portfólio  
+- Preparação para mestrado em Ciência de Dados  
+
+---
+
+## 📫 Como me encontrar
+📄 **LinkedIn:** https://www.linkedin.com/in/mtserik  
+📧 **Email:** mtserik@gmail.com  
+
+---
+
+<p align="center">💡 *Sigo evoluindo sempre — um projeto, um estudo e um insight por vez.*</p>
