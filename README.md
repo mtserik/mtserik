@@ -46,8 +46,6 @@
 
 ## 📌 Projetos em Destaque (em construção)
 
-> 📍 *Assim que seus primeiros projetos estiverem prontos, fixe-os aqui no perfil e coloque os links abaixo.*
-
 - 🔹 **Machine Learning – Classificação / Regressão** → _em desenvolvimento_
 - 🔹 **Clusterização de Clientes** → _em desenvolvimento_
 - 🔹 **EDA Profunda de Dataset Real** → _em desenvolvimento_
