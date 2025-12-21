@@ -46,10 +46,7 @@
 
 ## 📌 Projetos em Destaque (em construção)
 
-- 🔹 **Machine Learning – Classificação / Regressão** → _em desenvolvimento_
-- 🔹 **Clusterização de Clientes** → _em desenvolvimento_
-- 🔹 **EDA Profunda de Dataset Real** → _em desenvolvimento_
-- 🔹 **Automação com Selenium + Análise** → _em desenvolvimento_
+- 🔹 **Estimando pi com Monte Carlo** → [Link](https://github.com/mtserik/monte-carlo-pi#)
 
 ---
 
